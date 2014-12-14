@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ars Technica Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Categories">
+        <item>All</item>
+        <item>Technology Lab</item>
+        <item>Gear and Gadgets</item>
+        <item>Ministry of Innovation</item>
+        <item>Risk Assessment</item>
+        <item>Law and Disorder</item>
+        <item>Infinite Loop</item>
+        <item>Opposable Thumbs</item>
+        <item>The Scientific Method</item>
+        <item>The Multiverse</item>
+        <item>Cars Technica</item>
+        <item>Staff Blogs</item>
+    </string-array>
+
+    <string name="all_url">http://feeds.arstechnica.com/arstechnica/index</string>
+    <string name="tech_lab_url">http://feeds.arstechnica.com/arstechnica/technology-lab</string>
+    <string name="gear_gadget_url">http://feeds.arstechnica.com/arstechnica/gadgets</string>
+    <string name="ministry_url">http://feeds.arstechnica.com/arstechnica/business</string>
+    <string name="risk_assess_url">http://feeds.arstechnica.com/arstechnica/security</string>
+    <string name="law_disorder_url">http://feeds.arstechnica.com/arstechnica/tech-policy</string>
+    <string name="infinite_loop_url">http://feeds.arstechnica.com/arstechnica/apple</string>
+    <string name="opposable_url">http://feeds.arstechnica.com/arstechnica/gaming</string>
+    <string name="sci_meth_url">http://feeds.arstechnica.com/arstechnica/science</string>
+    <string name="multiverse_url">http://feeds.arstechnica.com/arstechnica/multiverse</string>
+    <string name="cars_url">http://feeds.arstechnica.com/arstechnica/cars</string>
+    <string name="staff_url">http://feeds.arstechnica.com/arstechnica/staff-blogs</string>
+
+</resources>
